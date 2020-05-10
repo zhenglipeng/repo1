@@ -6,3 +6,7 @@
 bbbbbbb
 cccccccccc
 di er ci  xiugai hello4.txt
+add some content to Hello4.txt
+sadasdas
+dasdsadasdsa
+
