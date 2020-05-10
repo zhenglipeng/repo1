@@ -5,3 +5,6 @@
 £¿£¿£¿£¿£¿
 bbbbbbb
 cccccccccc
+add some content to Hello4.txt
+sadasdas
+dasdsadasdsa
